@@ -10,7 +10,7 @@ Simple image classification of Institut Teknologi Bandung buildings, which inclu
 * Model is trained using train.ipynb, using local datasets.
 
 # Train
-Model is trained using train.ipynb, using local datasets.
+Model is trained using *train.ipynb*, including performance report and evaluation.
 The model is then saved as *itbbuildingclassification.h5*
 
 # Test model 
