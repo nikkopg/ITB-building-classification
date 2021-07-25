@@ -14,9 +14,9 @@ Model is trained using *train.ipynb*, including performance report and evaluatio
 The model is then saved as *itbbuildingclassification.h5*
 
 # Test model 
-Just simply run itbbuildingclassification.py:
+Just simply run:
 ```
 python itbbuildingclassification.py
 ```
-- use the sample image
-- put the model in the same file directory to ease.
+- use the sample image or choose on your own.
+- put the model in the **same file directory**.
